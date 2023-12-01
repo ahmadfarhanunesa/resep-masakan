@@ -1,9 +1,5 @@
 # Aplikasi Resep Makanan
 
-## Tampilan Splash Screen
-
-![Img 1](assets/screenshot/SplashScreen.jpg)
-
 ## Tampilan Halaman Utama
 
 ![Img 1](assets/screenshot/Halaman_Utama.jpg)
